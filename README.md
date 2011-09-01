@@ -22,7 +22,7 @@ var OAuth = require('node-oauth');
 set your application OAuth setting file.
 
 ```js
-OAuth = OAuth("sample/object-oauth.js")
+OAuth = OAuth("../sample/object-oauth.js")
 
 ```
 
