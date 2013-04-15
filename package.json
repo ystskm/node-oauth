@@ -1,18 +1,30 @@
 {
   "name": "node-oauth",
   "description": "A node.js client for OAuth API",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "ystskm <brilliantpenguin@gmail.com>",
   "repository": {
-        "type": "git",
-        "url": "https://ystskm@github.com/ystskm/node-oauth.git"
-    },
+    "type": "git",
+    "url": "https://ystskm@github.com/ystskm/node-oauth.git"
+  },
   "main": "./index",
   "engines": {
     "node": ">=0.8.21"
   },
-  "licenses": [{
-    "type": "MIT",
-    "url": "http://github.com/ystskm/node-oauth/blob/master/LICENSE.md"
-  }]
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/ystskm/node-oauth/blob/master/LICENSE.md"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "gitHead": "1a313d9accf7ede43ebd829f417ea99b21f293b1",
+  "scripts": {
+    "test": "npm install node-oauth"
+  },
+  "keywords": [
+    "oauth",
+    "oauth2"
+  ],
+  "license": "MIT"
 }
