@@ -1,5 +1,4 @@
-:: node-oauth ::
-=
+#:: node-oauth ::
 
 ##Abstract
 #### An adaptor for OAuth 1.0 and OAuth 2.0 API.
