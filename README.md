@@ -5,7 +5,7 @@
 
 ##Install##
 
-To install the most recent release from npm, run:
+To install the most recent release from [npm](http://npmjs.org/), run:
 
 	npm install node-oauth
 
