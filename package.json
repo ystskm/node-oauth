@@ -1,7 +1,7 @@
 {
   "name": "node-oauth",
   "description": "A node.js client for OAuth API",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "author": "ystskm <brilliantpenguin@gmail.com>",
   "repository": {
     "type": "git",
