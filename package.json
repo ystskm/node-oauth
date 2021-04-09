@@ -1,8 +1,8 @@
 {
   "name": "node-oauth",
   "description": "A node.js client for OAuth API",
-  "version": "0.2.0",
-  "author": "ystskm <brilliantpenguin@gmail.com>",
+  "version": "0.3.0",
+  "author": "Yoshitaka Sakamoto<brilliantpenguin@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/ystskm/node-oauth.git"
